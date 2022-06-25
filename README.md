@@ -2,4 +2,4 @@ My team's 4th semester database systems project, built and developed using Visua
 
 
 
-![image](https://user-images.githubusercontent.com/64956185/175757283-17f9678d-c4a9-49ae-93cf-62ddb5b26f0e.png)
+![image](https://user-images.githubusercontent.com/64956185/175757305-e3571d9e-9dcc-4823-a4ed-7b7a24cfefab.png)
