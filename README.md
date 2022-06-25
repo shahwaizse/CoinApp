@@ -1,4 +1,4 @@
-My team's 4th semester database systems project, built and developed using Visual Studio 2022.
+Mock cryptocurrency trading application. Employs web scraping and SQL Server connectivity. Built and developed using Visual Studio 2022.
 
 
 
